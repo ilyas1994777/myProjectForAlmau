@@ -1,0 +1,67 @@
+
+/** {*/
+/*    border: 1px solid black;*/
+/*}*/
+
+
+
+.inputTextCss {
+    width: 400px;
+
+}
+
+.regCss {
+    background-color: rgba(170, 12, 205, 0.69);
+    border-radius: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.brdd {
+    border: 2px solid green;
+    border-radius: 12px;
+    width: 100px;
+    height: auto;
+
+}
+
+.brdd22 {
+    border: 4px solid rgba(72, 0, 255, 0.76);
+    border-radius: 12px;
+    width: 230px;
+    height: auto;
+    padding: 1px 10px 1px 15px;
+
+}
+
+.inpsize {
+    width: 400px;
+    height: 30px;
+}
+
+.bbtn {
+
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: green;
+    border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
